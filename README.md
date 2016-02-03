@@ -9,7 +9,7 @@ Twitter Boostrap 3:
 https://github.com/twbs/bootstrap
 
 Versions:
- - Google Web Starter Kit: **0.5.2**
+ - Google Web Starter Kit: **0.6.1**
  - Twitter Boostrap 3: **3.3.4**
 
 How to run
